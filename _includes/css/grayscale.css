@@ -154,10 +154,6 @@ a:focus {
     vertical-align: middle;
 }
 
-.intro .intro-body .circle-btn {
-    bottom: 2rem;
-}
-
 .intro .intro-body .brand-heading {
     font-size: 40px;
 }
@@ -182,12 +178,14 @@ a:focus {
 
     .intro .intro-body .circle-btn {
         bottom: 2rem !important;
+        margin: 7rem !important;
     }
 }
 
 @media(min-width:1200px) {
     .intro .intro-body .circle-btn {
         bottom: 7rem !important;
+        margin: 7rem !important;
     }
 }
 
