@@ -1,8 +1,0 @@
-{
-  "name": "wedding",
-  "version": "1.0.0",
-  "scripts": {
-    "serve": "rbenv exec jekyll serve --livereload"
-  },
-  "dependencies": {}
-}
